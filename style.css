@@ -1,0 +1,25 @@
+body, html {
+    height: 100%;
+    width: 100%;
+    font: 'Raleway', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    font: 2.5em 'Raleway', sans-serif;
+    color: rgba(0, 0, 0, .5);
+    text-align: center;
+    letter-spacing: .25em;
+    text-decoration: underline;
+    text-transform: uppercase;
+    width: 100%;
+    margin-bottom: 0;
+}
+
+h2 {
+    font: 1em 'Raleway', sans-serif;
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+}
