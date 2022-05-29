@@ -21,7 +21,7 @@ color.addEventListener("input", setColor);
 
 function setLinearBackground() {
   linearGenerator.style.background =
-    "linear-gradient(to right, " + color1.value + "," + color2.value + ")";
+    "linear-gradient(top, " + color1.value + "," + color2.value + ")";
 
   linearBackground.textContent = linearGenerator.style.background + ";";
 }
